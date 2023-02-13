@@ -1,0 +1,13 @@
+{
+  "model_name": "fasttext_embedding_product_name",
+  "fast_text": {
+    "sg":0,
+    "window":2,
+    "size":200,
+    "min_count":5,
+    "alpha":0.03,
+    "min_alpha":0.007,
+    "epochs":50,
+    "compute_loss":true
+  }
+}
